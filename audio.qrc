@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/audio">
+        <file>jiang.mp3</file>
+    </qresource>
+</RCC>
